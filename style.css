@@ -1,0 +1,25 @@
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+body {
+     width: 100vw;
+     height: 100vh;
+     background-color: aquamarine;
+}
+.container {
+     width: 100%;   
+    
+}
+audio {
+     
+     width: 300px;
+     height: 30px;
+}
+#wolfkang {
+     position: absolute;
+     width: 50px;
+     top: 70px;
+     right: 5px;
+}
