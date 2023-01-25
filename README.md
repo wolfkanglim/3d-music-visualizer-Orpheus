@@ -9,6 +9,7 @@
 6. Click 'Stop Record' button to finish. Recorded video will be downloaded on your computer automaticly.
 7. enjoy your video  and share.
 ### Upload your favorite song, play it, control 3d objects and record it!
+### Music Visualizer https://wolfkanglim.github.io/3d-music-visualizer-Orpheus/
 
 ### Demo https://www.youtube.com/watch?v=8yWXVgFz-3Q&t=5s
 
